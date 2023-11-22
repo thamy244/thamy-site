@@ -5,4 +5,13 @@ h1{
 
 }
 
-p{}
+p{
+    text-align: center;
+    font-size: 40px;
+    color:  rgb(236, 152, 16);
+
+}
+body{
+    background-color: aqua rbg (0, 255, 255);
+    font-family: verdana, ;
+}
